@@ -2,4 +2,4 @@
 
 Deep Learning using MATLAB
 
-so you need MATLAB
+URL: https://southernwindblog.tistory.com/4?category=816966
